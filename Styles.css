@@ -9,7 +9,6 @@ html {
 body {
     position: relative;
     height: 100%;
-    background-image: url('./download.jpeg');
     background-size: cover;
     background-repeat: no-repeat;
 }
